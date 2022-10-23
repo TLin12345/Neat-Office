@@ -1,0 +1,32 @@
+C:\Users\jpere\source\repos\NeatOffice\bin\Debug\NeatOffice.exe.config
+C:\Users\jpere\source\repos\NeatOffice\bin\Debug\NeatOffice.exe
+C:\Users\jpere\source\repos\NeatOffice\bin\Debug\NeatOffice.pdb
+C:\Users\jpere\source\repos\NeatOffice\obj\Debug\NeatOffice.csprojAssemblyReference.cache
+C:\Users\jpere\source\repos\NeatOffice\obj\Debug\NeatOffice.Form1.resources
+C:\Users\jpere\source\repos\NeatOffice\obj\Debug\NeatOffice.Properties.Resources.resources
+C:\Users\jpere\source\repos\NeatOffice\obj\Debug\NeatOffice.csproj.GenerateResource.cache
+C:\Users\jpere\source\repos\NeatOffice\obj\Debug\NeatOffice.csproj.CoreCompileInputs.cache
+C:\Users\jpere\source\repos\NeatOffice\obj\Debug\NeatOffice.exe
+C:\Users\jpere\source\repos\NeatOffice\obj\Debug\NeatOffice.pdb
+\\Mac\Home\Desktop\COP 4226\NeatOffice\bin\Debug\NeatOffice.exe.config
+\\Mac\Home\Desktop\COP 4226\NeatOffice\bin\Debug\NeatOffice.exe
+\\Mac\Home\Desktop\COP 4226\NeatOffice\bin\Debug\NeatOffice.pdb
+\\Mac\Home\Desktop\COP 4226\NeatOffice\obj\Debug\NeatOffice.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\COP 4226\NeatOffice\obj\Debug\NeatOffice.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\COP 4226\NeatOffice\obj\Debug\NeatOffice.Form1.resources
+\\Mac\Home\Desktop\COP 4226\NeatOffice\obj\Debug\NeatOffice.Properties.Resources.resources
+\\Mac\Home\Desktop\COP 4226\NeatOffice\obj\Debug\NeatOffice.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\COP 4226\NeatOffice\obj\Debug\NeatOffice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\COP 4226\NeatOffice\obj\Debug\NeatOffice.exe
+\\Mac\Home\Desktop\COP 4226\NeatOffice\obj\Debug\NeatOffice.pdb
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\bin\Debug\NeatOffice.exe.config
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\bin\Debug\NeatOffice.exe
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\bin\Debug\NeatOffice.pdb
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\obj\Debug\NeatOffice.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\obj\Debug\NeatOffice.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\obj\Debug\NeatOffice.Form1.resources
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\obj\Debug\NeatOffice.Properties.Resources.resources
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\obj\Debug\NeatOffice.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\obj\Debug\NeatOffice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\obj\Debug\NeatOffice.exe
+\\Mac\Home\Desktop\COP 4226\PA3\NeatOffice\obj\Debug\NeatOffice.pdb
